@@ -174,7 +174,7 @@
   .header-nav-wrapper { position: relative; }
   
   .navbar {
-    background: var(--onyx-1);
+    background: #262626;
     position: absolute;
     top: calc(100% + 20px);
     right: 0;
